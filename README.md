@@ -1,4 +1,4 @@
-# SubmissionMACD1
+# SubmissionMACD2
 
 Langkah-langkah menjalankan aplikasi:
 
